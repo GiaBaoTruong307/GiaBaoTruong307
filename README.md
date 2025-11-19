@@ -30,8 +30,6 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
-&nbsp;
 
 <br>
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
@@ -42,7 +40,7 @@
   <a href="https://github.com/GiaBaoTruong307" title="GiaBaoTruong307">
     <img 
       width="315"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiaBaoTruong307&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2B%2B,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=trungquandev&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2B%2B,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" 
       alt="Top Languages"
       style="display:block;margin:auto;"
     />
@@ -56,7 +54,6 @@
       style="display:block;margin:auto;"
     />
   </a>
-
 </div>
 
 <br>
