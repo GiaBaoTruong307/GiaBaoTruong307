@@ -30,19 +30,21 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/MySQL-282C34?logo=mySQL&logoColor=4479A1" alt="JavaScript logo" title="JavaScript" height="25" /></span>
+&nbsp;
 
 <br>
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
-<div align="center">
+<div align="center" style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap;">
   <!-- Top Languages Card -->
   <a href="https://github.com/GiaBaoTruong307" title="GiaBaoTruong307">
     <img 
       width="315"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=trungquandev&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2B%2B,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" 
       alt="Top Languages"
-      style="display:block;margin:auto;"
+      style="border-radius:10px;"
     />
   </a>
   <!-- GitHub Stats Card -->
@@ -51,7 +53,7 @@
       width="434"
       src="https://github-readme-stats.vercel.app/api?username=GiaBaoTruong307&show_icons=true&theme=react&border_color=61dafb&hide_border=true&rank_icon=github&include_all_commits=true" 
       alt="GitHub Stats"
-      style="display:block;margin:auto;"
+      style="border-radius:10px;"
     />
   </a>
 </div>
