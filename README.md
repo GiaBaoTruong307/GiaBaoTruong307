@@ -37,7 +37,7 @@
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
-<div align="center" style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap;">
+<div align="center" style="display:flex; justify-content:center; gap:50px; flex-wrap:wrap;">
   <!-- Top Languages Card -->
   <a href="https://github.com/GiaBaoTruong307" title="GiaBaoTruong307">
     <img 
