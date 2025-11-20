@@ -1,6 +1,6 @@
-<!-- Trungquandev -->
+<!-- GiaBaoTruong -->
 <a href="#" target="_blank">
-  <img src="/giabaotruong/svg/trungquandev.svg" width="1200" alt="trungquandev-official" />
+  <img src="/giabaotruong/svg/giabaotruong.svg" width="1200" alt="giabaotruong-official" />
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
@@ -38,10 +38,10 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
 <div align=center>
-  <a href="#" title="Trungquandev">
+  <a href="#" title="giabaotruong">
     <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiaBaoTruong307&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
-  <a href="#" title="Trungquandev">
+  <a href="#" title="giabaotruong">
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=GiaBaoTruong307&show_icons=true&theme=react&border_color=61dafb&hide_border=true&rank_icon=github&include_all_commits=true" />
   </a>
 </div>
@@ -52,13 +52,13 @@
 <!-- https://icons8.com -->
 <div align="center">
   <a href="#" target="blank">
-    <img width="90" height="90" src="/giabaotruong/images/logo.png" alt="trungquandev-blog" />
+    <img width="90" height="90" src="/giabaotruong/images/logo.png" alt="giabaotruong-blog" />
   </a>
   <a href="https://www.facebook.com/giabao.truong.9047/" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="trungquandev-facebook" />
+    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="giabaotruong-facebook" />
   </a>
   <a href="mailto:giabaotruong300704@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="trungquandev-email" />
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="giabaotruong-email" />
   </a>
 </div>
 
@@ -67,5 +67,5 @@
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
 <a href="#" target="_blank">
-  <img src="/giabaotruong/svg/trungquandev-quotes.svg" width="846" height="150" alt="trungquandev-mot-lap-trinh-vien-mern-stack-advanced" />
+  <img src="/giabaotruong/svg/giabaotruong-quotes.svg" width="846" height="150" alt="giabaotruong-mot-lap-trinh-vien-mern-stack-advanced" />
 </a>
