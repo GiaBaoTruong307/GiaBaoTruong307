@@ -51,7 +51,7 @@
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="#" target="blank">
+  <a href="https://portfolio-giabaotruong.vercel.app/" target="blank">
     <img width="90" height="90" src="/giabaotruong/images/logo.png" alt="giabaotruong-blog" />
   </a>
   <a href="https://www.facebook.com/giabao.truong.9047/" target="blank">
