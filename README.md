@@ -38,21 +38,27 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/GiaBaoTruong307">
-        <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiaBaoTruong307&layout=compact&langs_count=8&theme=react&hide_border=true&hide=jupyter%20notebook,powershell,mathematica,ruby,objective-c,cuda" alt="Top Languages" />
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/GiaBaoTruong307">
-        <img height="195" src="https://github-readme-stats.vercel.app/api?username=GiaBaoTruong307&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
 
+  <!-- Streak Stats – cái này đang hot nhất hiện nay -->
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=GiaBaoTruong307&theme=react&hide_border=true&background=0D1117&stroke=61dafb&ring=61dafb&fire=61dafb&currStreakLabel=61dafb" alt="GitHub Streak" />
+
+<br><br>
+
+  <!-- Contribution Snake (rắn ăn contribution) – cực viral -->
+  <img src="https://raw.githubusercontent.com/GiaBaoTruong307/GiaBaoTruong307/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  
+  <br><br>
+
+  <!-- Trophy – huy chương GitHub -->
+  <img src="https://github-profile-trophy.vercel.app/?username=GiaBaoTruong307&theme=react&no-frame=true&margin-w=15&margin-h=15&row=1&column=7" alt="GitHub Trophy" />
+  
+  <br><br>
+
+  <!-- Top Languages kiểu donut đẹp hơn card cũ -->
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiaBaoTruong307&layout=donut&theme=react&hide_border=true&hide=jupyter%20notebook,powershell,mathematica&bg_color=0D1117&title_color=61dafb&text_color=ffffff" />
+
+</div>
 <br>
 <h2 align="center">👽 Where to find me 👽</h2>
 <br>
