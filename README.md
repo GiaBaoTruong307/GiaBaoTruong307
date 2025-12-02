@@ -35,12 +35,11 @@
 
 <br>
 <h2 align="center">🔥 GitHub Streak 🔥</h2>
-<!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
 
 <div align="center">
   <!-- Streak Stats – cái này đang hot nhất hiện nay -->
-  <img height="180" src="https://streak-stats.demolab.com?user=GiaBaoTruong307&theme=react&hide_border=true&background=0D1117&stroke=61dafb&ring=61dafb&fire=61dafb&currStreakLabel=61dafb" alt="GitHub Streak" />
+ <img height="180" src="https://github-readme-streak-stats-eight.vercel.app/?user=GiaBaoTruong307&theme=react&hide_border=true&background=0D1117&stroke=61dafb&ring=61dafb&fire=61dafb&currStreakLabel=61dafb" alt="GitHub Streak" />
 </div>
 
 <br>
