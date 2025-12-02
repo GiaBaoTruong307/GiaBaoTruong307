@@ -40,11 +40,15 @@
 
 <table>
   <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiaBaoTruong307&layout=compact&hide=jupyter%20notebook,c%23,powershell,mathematica,ruby,objective-c,objective-c%2b%2b,cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&border_color=61dafb&hide_border=true" alt="Top Languages" />
+    <td align="center" width="50%">
+      <a href="https://github.com/GiaBaoTruong307">
+        <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiaBaoTruong307&layout=compact&langs_count=8&theme=react&hide_border=true&hide=jupyter%20notebook,powershell,mathematica,ruby,objective-c,cuda" alt="Top Languages" />
+      </a>
     </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=GiaBaoTruong307&show_icons=true&theme=react&border_color=61dafb&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub Stats" />
+    <td align="center" width="50%">
+      <a href="https://github.com/GiaBaoTruong307">
+        <img height="195" src="https://github-readme-stats.vercel.app/api?username=GiaBaoTruong307&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+      </a>
     </td>
   </tr>
 </table>
