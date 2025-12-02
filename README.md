@@ -39,11 +39,10 @@
 <br>
 
 <div align="center">
-
   <!-- Streak Stats – cái này đang hot nhất hiện nay -->
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=GiaBaoTruong307&theme=react&hide_border=true&background=0D1117&stroke=61dafb&ring=61dafb&fire=61dafb&currStreakLabel=61dafb" alt="GitHub Streak" />
-
+  <img height="180" src="https://streak-stats.demolab.com?user=GiaBaoTruong307&theme=react&hide_border=true&background=0D1117&stroke=61dafb&ring=61dafb&fire=61dafb&currStreakLabel=61dafb" alt="GitHub Streak" />
 </div>
+
 <br>
 <h2 align="center">👽 Where to find me 👽</h2>
 <br>
