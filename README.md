@@ -37,12 +37,12 @@
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
-<div align=center>
-  <a href="#" title="giabaotruong">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiaBaoTruong307&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+<div align="center">
+  <a href="https://github.com/GiaBaoTruong307">
+    <img width="315" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiaBaoTruong307&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C++,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" alt="Top Languages" />
   </a>
-  <a href="#" title="giabaotruong">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=GiaBaoTruong307&show_icons=true&theme=react&border_color=61dafb&hide_border=true&rank_icon=github&include_all_commits=true" />
+  <a href="https://github.com/GiaBaoTruong307">
+    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=GiaBaoTruong307&show_icons=true&theme=react&border_color=61dafb&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub Stats" />
   </a>
 </div>
 
