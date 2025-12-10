@@ -34,12 +34,12 @@
 &nbsp;
 
 <br>
-<h2 align="center">🔥 GitHub Streak 🔥</h2>
+<h2 align="center">📊 GitHub Analytics 📊</h2>
 <br>
 
 <div align="center">
-  <!-- Streak Stats – cái này đang hot nhất hiện nay -->
- <img height="180" src="https://github-readme-streak-stats-eight.vercel.app/?user=GiaBaoTruong307&theme=react&hide_border=true&background=0D1117&stroke=61dafb&ring=61dafb&fire=61dafb&currStreakLabel=61dafb" alt="GitHub Streak" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=GiaBaoTruong307&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=61dafb&icon_color=61dafb" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiaBaoTruong307&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=61dafb" alt="Top Languages" />
 </div>
 
 <br>
