@@ -34,12 +34,10 @@
 &nbsp;
 
 <br>
-<h2 align="center">📊 GitHub Analytics 📊</h2>
+<h2 align="center">🏆 GitHub Achievements 🏆</h2>
 <br>
-
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=GiaBaoTruong307&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=61dafb&icon_color=61dafb" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiaBaoTruong307&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=61dafb" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=GiaBaoTruong307&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophy" />
 </div>
 
 <br>
