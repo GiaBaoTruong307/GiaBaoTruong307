@@ -34,10 +34,14 @@
 &nbsp;
 
 <br>
-<h2 align="center">🏆 GitHub Achievements 🏆</h2>
+<h2 align="center">📊 GitHub Stats 📊</h2>
 <br>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GiaBaoTruong307&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophy" />
+  <img src="https://img.shields.io/github/followers/GiaBaoTruong307?label=Followers&style=for-the-badge&logo=github&color=61dafb" alt="GitHub Followers" />
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/GiaBaoTruong307?label=Stars&style=for-the-badge&logo=github&color=61dafb" alt="GitHub Stars" />
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=GiaBaoTruong307&label=Profile%20Views&color=61dafb&style=for-the-badge" alt="Profile Views" />
 </div>
 
 <br>
